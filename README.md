@@ -7,7 +7,7 @@
 - Support different kind of operations. 
 - Small & Portable. 
 ## Instruction
-- Type operations in the file `Default.txt`. Now the following functions are supported: 
+- Type operations in the file `AutoControl.txt`. Now the following functions are supported: 
   - `leftclick x y` (Click the left key of the mouse at *x*, *y*. )
   - `leftdoubleclick x y` (Double click the left key of the mouse at *x*, *y*. )
   - `rightclick x y` (Click the right key of the mouse at *x*, *y*. )
