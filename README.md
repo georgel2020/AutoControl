@@ -1,4 +1,4 @@
-# Default
+# AutoControl
 [中文](https://github.com/georgel2020/Default/blob/main/README-CN.md) [English](https://github.com/georgel2020/Default/blob/main/README.md)
 > A **small** and **portable** program to control your **mouse and keyboard** so that you can **do things more quickly**. 
 ## Features
