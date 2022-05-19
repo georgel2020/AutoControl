@@ -15,8 +15,15 @@
   - `sleep t` (Wait for *t* milliseconds. )
   - `return` (End al operations. This is usually necessary at the ending. )
   - Coming soon...
+```
+rightclick 278 426
+sleep 1000
+return
+```
 - Start the program and wait until all operations are done. 
 - You can search for Virtual-Key Codes Table on the Internet and you can get the position of the mouse in the debug program. 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/86717650/169291661-7bea25fa-1b11-4131-a547-a84a2a348756.png)
+![image](https://user-images.githubusercontent.com/86717650/169291191-8c280cf6-0a92-4271-82fb-64391f01ab90.png)
 ## Copyright
 Everything by *George Lin*. 
