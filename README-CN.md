@@ -7,7 +7,7 @@
 - 支持不同类型性的命令。
 - 小巧便携。
 ## 指南
-- 在`Default.txt`中输入指令。以下的功能是被支持的：
+- 在`AutoControl.txt`中输入指令。以下的功能是被支持的：
   - `leftclick x y` （在坐标*x*, *y*单击鼠标左键。）
   - `leftdoubleclick x y` （在坐标*x*, *y*双击鼠标左键。）
   - `rightclick x y` （在坐标*x*, *y*单击鼠标右键。）
