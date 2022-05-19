@@ -1,4 +1,4 @@
-# 默认
+# AutoControl
 [中文](https://github.com/georgel2020/Default/blob/main/README-CN.md) [English](https://github.com/georgel2020/Default/blob/main/README.md)
 > 一个**小巧便携**的应用程序，它能控制你的**鼠标和键盘**，这样能帮助你**更快捷地**执行操作。
 ## 特点
