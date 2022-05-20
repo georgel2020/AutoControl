@@ -11,7 +11,7 @@
   - `leftclick x y` （在坐标*x*, *y*单击鼠标左键。）
   - `leftdoubleclick x y` （在坐标*x*, *y*双击鼠标左键。）
   - `rightclick x y` （在坐标*x*, *y*单击鼠标右键。）
-  - `keyclick n` （在键盘上按下*n*键。使用虚拟键值。）
+  - `keyclick n` （在键盘上按下*n*键。使用虚拟键值的整数形式。）
   - `sleep t` （等待*t*毫秒。）
   - `return` （结束所有操作。一般情况下，这在文档末尾是必要的。）
   - 未完待续……
@@ -29,7 +29,7 @@ sleep 1000
 return
 ```
 - 打开程序并等待直到所有操作完成。
-- 你可以在网络上搜索虚拟键值对照表并使用调试程序获取鼠标实时位置。
+- 点击[这里](https://docs.microsoft.com/zh-cn/windows/win32/inputdev/virtual-key-codes)查看虚拟键值对照表。使用调试程序获取鼠标实时位置。
 ## 截图
 ![image](https://user-images.githubusercontent.com/86717650/169291191-8c280cf6-0a92-4271-82fb-64391f01ab90.png)
 ## 版权
