@@ -13,7 +13,7 @@
   - `rightclick x y` (Click the right key of the mouse at *x*, *y*. )
   - `keyclick n` (Click the key *n* on the keyboard. Use Virtual-Key Codes. )
   - `sleep t` (Wait for *t* milliseconds. )
-  - `return` (End al operations. This is usually necessary at the ending. )
+  - `return` (End all operations. This is usually necessary at the ending. )
   - Coming soon...
 ```
 rightclick 278 426
