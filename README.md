@@ -11,7 +11,7 @@
   - `leftclick x y` (Click the left key of the mouse at *x*, *y*. )
   - `leftdoubleclick x y` (Double click the left key of the mouse at *x*, *y*. )
   - `rightclick x y` (Click the right key of the mouse at *x*, *y*. )
-  - `keyclick n` (Click the key *n* on the keyboard. Use Virtual-Key Codes. )
+  - `keyclick n` (Click the key *n* on the keyboard. Use integers of Virtual-Key Codes. )
   - `sleep t` (Wait for *t* milliseconds. )
   - `return` (End all operations. This is usually necessary at the ending. )
   - Coming soon...
@@ -29,7 +29,7 @@ sleep 1000
 return
 ```
 - Start the program and wait until all operations are done. 
-- Click [here](https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes) to see the Virtual-Key Codes Table.  Get the position of the mouse in the debug program. 
+- Click [here](https://docs.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes) to see the Virtual-Key Codes Table. Get the position of the mouse in the debug program. 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/86717650/169291191-8c280cf6-0a92-4271-82fb-64391f01ab90.png)
 ## Copyright
